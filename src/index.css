@@ -1,0 +1,17 @@
+#root{
+  padding: 0;
+}
+Carousel{
+  width: 100%;
+}
+
+ul{
+  display: flex;
+  justify-content: space-between;
+  padding: 3rem;
+}
+
+li{
+  flex-direction: row;
+  display: contents;
+}

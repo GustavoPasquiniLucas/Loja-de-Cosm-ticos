@@ -1,0 +1,22 @@
+{
+    "products": [
+    {
+    "id": 1,
+    "nome": "Perume masculino polo Ultra Blue   ",
+    "price": 500.00,
+    "img":"https://images.tcdn.com.br/img/img_prod/1159121/perfume_masculino_polo_ultra_blue_ralph_lauren_eau_de_toilette_753_1_d9338800171457d09a1b55db3f986053.jpg"
+    },
+    {
+    "id": 2,
+    "nome": "Perfume Feminino La Belle Jean Paul Gaultier",
+    "price": 630.00,
+    "img":"https://images.tcdn.com.br/img/img_prod/1159121/perfume_feminino_la_belle_jean_paul_gaultier_eau_de_parfum_519_1_60750abcee0d0f173544023b04a1caf4.jpg"
+    },
+    {
+    "id": 3,
+    "nome": "Natura Hidratante Tododia Ameixa E Flor De Baunilha",
+    "price": 45.90,
+    "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQPXOkCBxeWqS9msUOmydeRTvHgwz00vJK-mQuXgybqk2tqeqfGxI5-TuIfgw4hxCDj4RgP2tIQSO7U1qeadLQdc-CLc-RxAlXiLoF85PDivBYbkFFiTdGt6g&usqp=CAE"
+    }
+    ]
+    }
