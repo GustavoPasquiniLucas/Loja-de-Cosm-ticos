@@ -1,8 +1,9 @@
 #root{
   padding: 0;
 }
-Carousel{
+.Carousel{
   width: 100%;
+  height: 600px;
 }
 
 ul{
